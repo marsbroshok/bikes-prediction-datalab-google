@@ -1,6 +1,6 @@
 
 # Data Analysis with Google Cloud Platform
-## V'Lille Data exploration with Google Datalab
+## [V'Lille Data exploration with Google Datalab](https://github.com/marsbroshok/bikes-prediction-datalab-google/blob/master/VLille%20Datalab%20Example.ipynb)
 
 In this repository you could find python script, Datalab Notebook and supporting files to explore V'Lille bicycles usage statistics.
 
@@ -26,7 +26,7 @@ To run the code in this repository you need to:
 Congrats! You are done with synchronizing VLille data with your historical storage in BigQuery dataset.
 
 ### Data Exploration
-Follow descriptions in Google Datalab Notebook to perform of verifiy how to:
+Follow descriptions in Google Datalab Notebook [VLille Datalab Example](https://github.com/marsbroshok/bikes-prediction-datalab-google/blob/master/VLille%20Datalab%20Example.ipynb) to perform of verifiy how to:
 
 * Query data from Google BigQuery table
 * Visualize data using Google Charts in Datalab
