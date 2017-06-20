@@ -1,6 +1,5 @@
 
 # Data Analysis with Google Cloud Platform
-----------------
 ## V'Lille Data exploration with Google Datalab
 
 In this repository you could find python script, Datalab Notebook and supporting files to explore V'Lille bicycles usage statistics.
