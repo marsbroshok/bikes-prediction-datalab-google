@@ -23,10 +23,10 @@ To run the code in this repository you need to:
 
 6) Add cron task to run python script every minute. In VM ssh terminal run `crontab -e`and add the line `* * * * * python $YOUR_PATH_HERE/velillBQ.py`
 
-Congrats! You are done with syncronizing VLille data with your historical storage in BigQuery dataset.
+Congrats! You are done with synchronizing VLille data with your historical storage in BigQuery dataset.
 
 ### Data Exploration
-Follow description in Google Datalab Notebook to perform of verifiy how to:
+Follow descriptions in Google Datalab Notebook to perform of verifiy how to:
 
 * Query data from Google BigQuery table
 * Visualize data using Google Charts in Datalab
